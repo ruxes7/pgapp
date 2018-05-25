@@ -33,9 +33,9 @@ var app = {
             var today = new Date();
             var tomorrow = new Date();
             tomorrow.setDate(today.getDate());
-            tomorrow.setHours(17);
-            tomorrow.setMinutes(23);
-            tomorrow.setSeconds(0);
+            tomorrow.setHours(today.getHours());
+            tomorrow.setMinutes(today.getMinutes());
+            tomorrow.setSeconds(10);
             var tomorrow_at_6_am = new Date(tomorrow);
 
             cordova.plugins.notification.local.schedule({
@@ -63,7 +63,7 @@ var app = {
                         id: 10,
                         title: "Meeting in 5 minutes!"
                     });
-                }, 600000);
+                }, 10000);
             });
 
         }, false);
