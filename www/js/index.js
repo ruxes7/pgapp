@@ -34,7 +34,7 @@ var app = {
             var tomorrow = new Date();
             tomorrow.setDate(today.getDate());
             tomorrow.setHours(17);
-            tomorrow.setMinutes(20);
+            tomorrow.setMinutes(23);
             tomorrow.setSeconds(0);
             var tomorrow_at_6_am = new Date(tomorrow);
 
