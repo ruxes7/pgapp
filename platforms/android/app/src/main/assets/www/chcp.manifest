@@ -1,0 +1,298 @@
+[
+  {
+    "file": "css/index.css",
+    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "1431a5c03eb1271c6a3c4d7ea8264da1"
+  },
+  {
+    "file": "index.html",
+    "hash": "08183618395e99d95d1c9417bdc6870d"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "c0ccf04c351591df013605e54435be20"
+  },
+  {
+    "file": "res/.pgbomit",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "res/icon/android/drawable-hdpi-icon.png",
+    "hash": "91cf3af5fa819d5e8d57370b10951069"
+  },
+  {
+    "file": "res/icon/android/drawable-ldpi-icon.png",
+    "hash": "bfa7bdf1077590f7f6cfa4c9dd8665b8"
+  },
+  {
+    "file": "res/icon/android/drawable-mdpi-icon.png",
+    "hash": "12906231c95a3b683abb9f4efd915dd7"
+  },
+  {
+    "file": "res/icon/android/drawable-xhdpi-icon.png",
+    "hash": "fc14ceae6bdea12398981ece7e210f92"
+  },
+  {
+    "file": "res/icon/android/drawable-xxhdpi-icon.png",
+    "hash": "278157c8c0a5d2b7cfcb0f1a4690e740"
+  },
+  {
+    "file": "res/icon/android/drawable-xxxhdpi-icon.png",
+    "hash": "80f0d4abd8318c75d00572ccf4567777"
+  },
+  {
+    "file": "res/icon/ios/icon-40.png",
+    "hash": "ff14b2853c8789ced64a24990529a656"
+  },
+  {
+    "file": "res/icon/ios/icon-40@2x.png",
+    "hash": "fb5604bffcfa38414a8d502c83c914c0"
+  },
+  {
+    "file": "res/icon/ios/icon-50.png",
+    "hash": "21b92a3e0f7e2294f39f1a818b722b11"
+  },
+  {
+    "file": "res/icon/ios/icon-50@2x.png",
+    "hash": "631347ca2250498a37db7699d96f0a0f"
+  },
+  {
+    "file": "res/icon/ios/icon-60.png",
+    "hash": "d833f8eeef4c374734bb7297dbb7f50b"
+  },
+  {
+    "file": "res/icon/ios/icon-60@2x.png",
+    "hash": "349ffca1cf0bcece56576c6cd5e2a893"
+  },
+  {
+    "file": "res/icon/ios/icon-60@3x.png",
+    "hash": "be367be29f6019e3739c714757a49434"
+  },
+  {
+    "file": "res/icon/ios/icon-72.png",
+    "hash": "91cf3af5fa819d5e8d57370b10951069"
+  },
+  {
+    "file": "res/icon/ios/icon-72@2x.png",
+    "hash": "278157c8c0a5d2b7cfcb0f1a4690e740"
+  },
+  {
+    "file": "res/icon/ios/icon-76.png",
+    "hash": "b1ebd426111145d4b32b13ab21f1d7b6"
+  },
+  {
+    "file": "res/icon/ios/icon-76@2x.png",
+    "hash": "d87d3558c8682acdbc538e8f05ffe4d9"
+  },
+  {
+    "file": "res/icon/ios/icon-small.png",
+    "hash": "79bc0e73a786a5a6729cc613572a3c77"
+  },
+  {
+    "file": "res/icon/ios/icon-small@2x.png",
+    "hash": "699714c93d4298a8fb2c9a95c23f9bad"
+  },
+  {
+    "file": "res/icon/ios/icon-small@3x.png",
+    "hash": "99eaaeba95cb09e376962105615bc1ac"
+  },
+  {
+    "file": "res/icon/ios/icon.png",
+    "hash": "4ab29649dc8160bd9edec1cb6779fec9"
+  },
+  {
+    "file": "res/icon/ios/icon@2x.png",
+    "hash": "6eb64ce3fd1ff512a75557b55e168e1f"
+  },
+  {
+    "file": "res/icon/windows/Square150x150Logo.scale-100.png",
+    "hash": "17835ab9e7f1fab8e7f80e369f2258f0"
+  },
+  {
+    "file": "res/icon/windows/Square150x150Logo.scale-240.png",
+    "hash": "a0be073b53623f850bd7fb092f887425"
+  },
+  {
+    "file": "res/icon/windows/Square30x30Logo.scale-100.png",
+    "hash": "5cc0de95c5b8442db1304d2d1dca227d"
+  },
+  {
+    "file": "res/icon/windows/Square310x310Logo.scale-100.png",
+    "hash": "97eed6971ecda9ea6249d5e7940a47b0"
+  },
+  {
+    "file": "res/icon/windows/Square44x44Logo.scale-100.png",
+    "hash": "c6f0e1d547ff33341f2fa73be2faaf77"
+  },
+  {
+    "file": "res/icon/windows/Square44x44Logo.scale-240.png",
+    "hash": "a2c01a44129acd6e0ff2af6797de09da"
+  },
+  {
+    "file": "res/icon/windows/Square70x70Logo.scale-100.png",
+    "hash": "f1977bd27a29d289e32ec9b3bf936b9a"
+  },
+  {
+    "file": "res/icon/windows/Square71x71Logo.scale-100.png",
+    "hash": "30bd0f56a9ff95d258c5453c4f88f4df"
+  },
+  {
+    "file": "res/icon/windows/Square71x71Logo.scale-240.png",
+    "hash": "7a88c2c04686ec559affd27fc9c0e3a6"
+  },
+  {
+    "file": "res/icon/windows/StoreLogo.scale-100.png",
+    "hash": "c09e8be49a5a02b39b538dfd1a6ab6bf"
+  },
+  {
+    "file": "res/icon/windows/StoreLogo.scale-240.png",
+    "hash": "adb93f9f5704645784f2177d1315adab"
+  },
+  {
+    "file": "res/icon/windows/Wide310x150Logo.scale-100.png",
+    "hash": "b285bb7f59e934952d73ebfa52222116"
+  },
+  {
+    "file": "res/icon/windows/Wide310x150Logo.scale-240.png",
+    "hash": "b498cad753aaa7d3fd3861c48711d061"
+  },
+  {
+    "file": "res/icon/wp8/ApplicationIcon.png",
+    "hash": "32e79297ae4823fce8a5ba4ad4d02c2f"
+  },
+  {
+    "file": "res/icon/wp8/Background.png",
+    "hash": "1ea3233f05a0a9b2e80f258d71a4b461"
+  },
+  {
+    "file": "res/screen/android/drawable-land-hdpi-screen.png",
+    "hash": "3e876698bda737223d954f7a1c022535"
+  },
+  {
+    "file": "res/screen/android/drawable-land-ldpi-screen.png",
+    "hash": "82939313e3baefff9447f1913606d0b9"
+  },
+  {
+    "file": "res/screen/android/drawable-land-mdpi-screen.png",
+    "hash": "a3c6fd383d55502188876a636fd945a3"
+  },
+  {
+    "file": "res/screen/android/drawable-land-xhdpi-screen.png",
+    "hash": "649cb256d75360d7611da2977cf95044"
+  },
+  {
+    "file": "res/screen/android/drawable-land-xxhdpi-screen.png",
+    "hash": "bd6d0ddb2bb20f2819bd56270c3a1b5a"
+  },
+  {
+    "file": "res/screen/android/drawable-land-xxxhdpi-screen.png",
+    "hash": "2f9df2b7c5e6c738ed97495868f3076f"
+  },
+  {
+    "file": "res/screen/android/drawable-port-hdpi-screen.png",
+    "hash": "8516d84e3638671c30e25282c23793e7"
+  },
+  {
+    "file": "res/screen/android/drawable-port-ldpi-screen.png",
+    "hash": "9a3df2d9abc3c53b9be789f71ea6c5e2"
+  },
+  {
+    "file": "res/screen/android/drawable-port-mdpi-screen.png",
+    "hash": "e83e5afe78cb9e9f425f0f8aa0907f07"
+  },
+  {
+    "file": "res/screen/android/drawable-port-xhdpi-screen.png",
+    "hash": "bfce4cfd3e01de9689bf040114fd98c0"
+  },
+  {
+    "file": "res/screen/android/drawable-port-xxhdpi-screen.png",
+    "hash": "e27a76195537dd4f7cbca5c43eace34e"
+  },
+  {
+    "file": "res/screen/android/drawable-port-xxxhdpi-screen.png",
+    "hash": "3f2c37bf3ff9d0ee9d755f092db6e2ed"
+  },
+  {
+    "file": "res/screen/ios/Default-568h@2x~iphone.png",
+    "hash": "de0f8fcd280507527ed39fda6e16216d"
+  },
+  {
+    "file": "res/screen/ios/Default-667h.png",
+    "hash": "68fcd50cee5853dd37a9b8331fcba34d"
+  },
+  {
+    "file": "res/screen/ios/Default-736h.png",
+    "hash": "b76bbc6c977ff3eefe3120f1149315bb"
+  },
+  {
+    "file": "res/screen/ios/Default-Landscape-736h.png",
+    "hash": "505cb7afea531bc2ba5ce289636cbe95"
+  },
+  {
+    "file": "res/screen/ios/Default-Landscape@2x~ipad.png",
+    "hash": "085360b74547ff5744269460ce48d72f"
+  },
+  {
+    "file": "res/screen/ios/Default-Landscape~ipad.png",
+    "hash": "8211b8267a47edb276b8e727086ffc76"
+  },
+  {
+    "file": "res/screen/ios/Default-Portrait@2x~ipad.png",
+    "hash": "c2dc5dab031f5b5a1179c00eaf6b3651"
+  },
+  {
+    "file": "res/screen/ios/Default-Portrait~ipad.png",
+    "hash": "3db2c64c041625705a66fbdd52a283c1"
+  },
+  {
+    "file": "res/screen/ios/Default@2x~iphone.png",
+    "hash": "f70d0dcecde9e06a1bc709d2836b7d35"
+  },
+  {
+    "file": "res/screen/ios/Default~iphone.png",
+    "hash": "2c0ab5af02e8187c542ae392aaaa403f"
+  },
+  {
+    "file": "res/screen/windows/SplashScreen.scale-100.png",
+    "hash": "536f9a57bba44b80baa8d02bd3aabdf1"
+  },
+  {
+    "file": "res/screen/windows/SplashScreenPhone.scale-240.png",
+    "hash": "f476a6f2768e513edd804bbd8dff7f3c"
+  },
+  {
+    "file": "res/screen/wp8/screen-portrait.jpg",
+    "hash": "ff88e16c2349721e93b9693284a355a3"
+  },
+  {
+    "file": "spec.html",
+    "hash": "b6448b0599eff46c1647905bfdef9159"
+  },
+  {
+    "file": "spec/helper.js",
+    "hash": "08e628ba9d1e20d0e7c1b74f3b481c0f"
+  },
+  {
+    "file": "spec/index.js",
+    "hash": "49dab4c4e2749a75bddcdb409d2267b0"
+  },
+  {
+    "file": "spec/lib/jasmine-1.2.0/jasmine-html.js",
+    "hash": "4b49962a205889352a4f1d63d5acf7a0"
+  },
+  {
+    "file": "spec/lib/jasmine-1.2.0/jasmine.css",
+    "hash": "b205b08b5f1c35ebcb9d75e1849a6266"
+  },
+  {
+    "file": "spec/lib/jasmine-1.2.0/jasmine.js",
+    "hash": "30f8bf3c1136ec597b2c41a8acf7de43"
+  },
+  {
+    "file": "spec/lib/jasmine-1.2.0/MIT.LICENSE",
+    "hash": "ee4bc64f30f3e9d1aed570562d8713e7"
+  }
+]

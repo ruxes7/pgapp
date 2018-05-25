@@ -14,6 +14,9 @@
         PhoneGap Team
     </author>
     <content src="index.html" />
+    <chcp>
+        <local-development enabled="true" />
+    </chcp>
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

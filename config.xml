@@ -30,7 +30,12 @@
     <plugin name="cordova-plugin-statusbar" source="npm" spec="~2.1.2" />
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
-    <plugin spec=" https://github.com/acianti/cordova-plugin-local-notifications.git" />
+    <plugin spec="https://github.com/acianti/cordova-plugin-local-notifications.git" />
+    <plugin spec="https://github.com/nordnet/cordova-hot-code-push.git" />
+    <plugin spec="https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git" />
+    <chcp>
+        <local-development enabled="true" />
+    </chcp>
     <platform name="android">
         <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="www/res/icon/android/drawable-mdpi-icon.png" />
