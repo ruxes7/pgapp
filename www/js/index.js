@@ -26,7 +26,47 @@ var app = {
     // Bind any events that are required on startup. Common events are:
     // 'load', 'deviceready', 'offline', and 'online'.
     bindEvents: function() {
-        document.addEventListener('deviceready', this.onDeviceReady, false);
+        //document.addEventListener('deviceready', this.onDeviceReady, false);
+        document.addEventListener('deviceready', function() {
+            this.onDeviceReady;
+
+            var today = new Date();
+            var tomorrow = new Date();
+            tomorrow.setDate(today.getDate());
+            tomorrow.setHours(17);
+            tomorrow.setMinutes(13);
+            tomorrow.setSeconds(0);
+            var tomorrow_at_6_am = new Date(tomorrow);
+
+            cordova.plugins.notification.local.schedule({
+                id: 10,
+                title: "Meeting in 15 minutes!",
+                text: "Jour fixe Produktionsbesprechung",
+                at: tomorrow_at_6_am,
+                data: { meetingId:"#123FG8" }
+            });
+            // Join BBM Meeting when user has clicked on the notification 
+            cordova.plugins.notification.local.on("click", function (notification) {
+                if (notification.id == 10) {
+                    joinMeeting(notification.data.meetingId);
+                }
+            });
+
+            // Notification has reached its trigger time (Tomorrow at 8:45 AM)
+            cordova.plugins.notification.local.on("trigger", function (notification) {
+                if (notification.id != 10)
+                    return;
+
+                // After 10 minutes update notification's title 
+                setTimeout(function () {
+                    cordova.plugins.notification.local.update({
+                        id: 10,
+                        title: "Meeting in 5 minutes!"
+                    });
+                }, 600000);
+            });
+
+        }, false);
     },
     // deviceready Event Handler
     //
